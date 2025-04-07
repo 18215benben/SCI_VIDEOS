@@ -1,0 +1,11 @@
+.page{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(500px, auto));
+    grid-row-gap:50px;
+}
+video{
+    position:reletive;
+    width:500px;
+    height:300px;
+}
+
